@@ -488,7 +488,7 @@ var musicHistory = [];
 
 // Function to update the history of the last two songs
 function updateMusicHistory(artist, song) {
-    // Adicionar a nova mÃºsica no inÃ­cio do histÃ³rico
+    // Add the new music at the beginning of the history
     musicHistory.unshift({ artist: artist, song: song });
 
     // Keep only the last two songs in history
