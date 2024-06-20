@@ -10,12 +10,10 @@ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 */
 
-
-
 const RADIO_NAME = 'Karimata FM';
 
 //PASTE DEFAULT COVER
-const DEFAULT_COVER_ART = 'https://i.imgur.com/efV8b3Z.jpg';
+const DEFAULT_COVER_ART = 'https://images2.imgbox.com/c8/ed/taMa2znr_o.png';
 
 // Change Stream URL Here, Supports, ZENO
 const URL_STREAMING = 'https://stream.zeno.fm/a19s7heytusuv';
