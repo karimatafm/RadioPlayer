@@ -4,7 +4,7 @@ const CACHE_NAME = 'web-radio-v1';
 // Lista de arquivos a serem cacheados
 const urlsToCache = [
   '/',
-  '/index.html',
+  '/index',
   '/css/style.css',
   '/js/karimata.js',
   '/img/cover.png',
