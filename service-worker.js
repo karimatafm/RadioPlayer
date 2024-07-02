@@ -6,7 +6,7 @@ const urlsToCache = [
   '/',
   '/index.html',
   '/css/style.css',
-  '/js/script.js',
+  '/js/karimata.js',
   '/img/cover.png',
   // Adicione outros recursos que deseja cache aqui
 ];
