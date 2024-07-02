@@ -12,21 +12,20 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 const RADIO_NAME = 'Karimata FM';
 
-//PASTE DEFAULT COVER
-const DEFAULT_COVER_ART = 'https://images2.imgbox.com/c8/ed/taMa2znr_o.png';
-
 // Change Stream URL Here, Supports, ZENO
 const URL_STREAMING = 'https://stream.zeno.fm/a19s7heytusuv';
 
-// Api URL
+//API URL
 const url = 'https://api.zeno.fm/mounts/metadata/subscribe/a19s7heytusuv';
 
 // Visit https://api.vagalume.com.br/docs/ to get your API key
 const API_KEY = "18fe07917957c289983464588aabddfb";
 
+// Change DEFAULT COVER
+const DEFAULT_COVER_ART = 'https://images2.imgbox.com/c8/ed/taMa2znr_o.png';
+
 // Variable to control history display: true = display / false = hides
 let showHistory = true; 
-
 
 window.onload = function () {
     var page = new Page;
