@@ -7,7 +7,7 @@
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "https://streaming.karimatafm.net/img/cover.png",
+      "src": "https://cdn.karimatafm.net/img/cover.png",
       "sizes": "192x192",
       "type": "image/png"
     }
