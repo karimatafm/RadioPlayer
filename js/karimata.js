@@ -13,7 +13,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 const RADIO_NAME = 'Radio Karimata FM';
 
 // Change Stream URL Here, Supports, ZENO
-const URL_STREAMING = 'https://stream.zeno.fm/a19s7heytusuv';
+const URL_STREAMING = 'https://s3.alhastream.com:8440';
 
 //API URL
 const url = 'https://api.zeno.fm/mounts/metadata/subscribe/a19s7heytusuv';
